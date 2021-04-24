@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735443505786",
+    "project_id": "fir-events-8c9b6",
+    "storage_bucket": "fir-events-8c9b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735443505786:android:689bda37ad156910b4a1c3",
+        "android_client_info": {
+          "package_name": "com.deadlytwo.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735443505786-ddilmlnckrk9frpnq93kiv51gil9btu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0M4_-OnDNXmLbO3gZvo21DR5SyWdn-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735443505786-ddilmlnckrk9frpnq93kiv51gil9btu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
